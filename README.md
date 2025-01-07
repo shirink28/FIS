@@ -42,11 +42,6 @@ Before you begin, ensure you have the following installed:
    ```bash
    npx playwright test
    ```
-2. **Headful Mode**  
-   To run tests with the browser UI visible:  
-   ```bash
-   npx playwright test --headed
-   ```
 
 ## Configuration
 
